@@ -1,0 +1,22 @@
+header {
+    padding: 10%;
+    border: solid black
+}
+
+main {
+    padding: 1%;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+}
+
+footer nav ul{
+    display: flex;
+    justify-content: space-around; 
+    /* width: 100%; */
+    list-style: none;
+    padding: 0%;
+}
